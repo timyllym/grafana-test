@@ -1,0 +1,31 @@
+{
+  "name": "grafana-test",
+  "version": "1.0.0",
+  "description": "Small test on embedding Grafana to Angular app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timyllym/grafana-test.git"
+  },
+  "keywords": [
+    "grafana",
+    "angular"
+  ],
+  "author": "Timo Myllymäki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timyllym/grafana-test/issues"
+  },
+  "homepage": "https://github.com/timyllym/grafana-test#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-ui-bootstrap": "^2.0.1",
+    "express": "^4.13.4",
+    "jquery": "^3.1.0",
+    "lodash": "^4.3.0",
+    "socket.io": "^1.4.5"
+  }
+}
