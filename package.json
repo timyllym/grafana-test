@@ -22,7 +22,12 @@
   "homepage": "https://github.com/timyllym/grafana-test#readme",
   "dependencies": {
     "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "angular-sanitize": "^1.5.8",
     "angular-ui-bootstrap": "^2.0.1",
+    "angular-ui-router": "^0.3.1",
+    "angular-ui-router-tabs": "^2.0.2",
+    "bootstrap": "^3.3.7",
     "express": "^4.13.4",
     "jquery": "^3.1.0",
     "lodash": "^4.3.0",
