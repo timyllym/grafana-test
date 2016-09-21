@@ -8,6 +8,10 @@
     /*flex: 1 1 auto;*/
 }
 
+.tab-bar {
+    padding: 0px 25px;
+}
+
 .fade-in {
     animation-name: fadein;
     animation-iteration-count: 1;
